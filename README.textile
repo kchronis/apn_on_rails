@@ -1,3 +1,6 @@
+My changes added a belongs_to association for the user model and also fixed the '"apn_bases" ActiveRecord error for Rails 3.2 
+-kchronis
+
 h1. APN on Rails (Apple Push Notifications on Rails)
 
 APN on Rails is a Ruby on Rails gem that allows you to easily add Apple Push Notification (iPhone)
